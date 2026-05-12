@@ -1,4 +1,4 @@
-📊 News Sentiment Analysis & Stock Market Correlation
+ News Sentiment Analysis & Stock Market Correlation
 
 A Week 1 AI Mastery project focused on analyzing financial news sentiment and its relationship with stock market behavior using exploratory data analysis, technical indicators, and statistical correlation analysis.
 
